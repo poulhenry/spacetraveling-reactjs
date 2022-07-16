@@ -1,1 +1,16 @@
-// TODO
+.header {
+  width: 100%;
+
+  div {
+    margin: 0 auto;
+    max-width: 1120px;
+    height: 105px;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+
+    img {
+      display: block;
+    }
+  }
+}

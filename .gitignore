@@ -32,3 +32,8 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# Prismic CMS
+/.slicemachine
+customtypes
+sm.json
